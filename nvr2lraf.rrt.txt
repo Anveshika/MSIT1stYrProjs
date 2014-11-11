@@ -1,0 +1,20 @@
+add file
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   KaunBanegaCrorepati.java
+#
+# Untracked files:
+#	CinemaTickets.java
+#	IH20148005_Exam_part_C.rar
+#	KaunBanegaCrorepati.rar
+#	LEDA/
+#	SocialNetwork/
+#	teamproject/
+#	workspace/
+#
+
